@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+env/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Email source files (already extracted)
+emails/
+
+# Backup files
+*.bak
+*~
+
+# Temporary files
+*.tmp
+.cache/
